@@ -4,7 +4,7 @@
 ## Description
 This is a Doodle jump game.
 
-### Try it out [here](https://mukulkolpe.github.io/Choice-Picker/)
+### Try it out [here](https://doodle-jump-mukul.netlify.app/)
 
 ## Tech-stack Used
 - HTML
